@@ -44,8 +44,6 @@ I’m an aspiring **Data Scientist** with a passion for:
 
 ---
 
-## 📊 GitHub Stats  
-
 ## 📊 GitHub Analytics  
 
 <p align="center">
@@ -65,3 +63,4 @@ I’m an aspiring **Data Scientist** with a passion for:
 - 📧 Email: samarthravindralagare@gmail.com
 
 ---
+![snake gif](https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg)
