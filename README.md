@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Samarh  
 
-💻 Machine Learning Enthusiast | 📊 Data Analytics | 📈 Predictive Modeling | 🐍 Python  
+💻 Visualization | 📊 Data Analytics | 📈 Predictive Modeling | 🐍 Python  
 
 Welcome to my GitHub!  
 I love exploring data, building models, and turning raw datasets into meaningful insights that can drive real-world decisions.  
@@ -38,8 +38,24 @@ I’m an aspiring **Data Scientist** with a passion for:
 
 ## 📊 GitHub Stats  
 
-![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight&hide_border=true" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true">
+</p>
+
+---
+
+### 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onedark&no-frame=true&row=1&column=6">
+</p>
 
 ---
 
