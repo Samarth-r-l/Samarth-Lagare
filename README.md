@@ -63,4 +63,4 @@ I’m an aspiring **Data Scientist** with a passion for:
 - 📧 Email: samarthravindralagare@gmail.com
 
 ---
-![snake gif](https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg)
+
