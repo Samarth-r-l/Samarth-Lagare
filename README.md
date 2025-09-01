@@ -29,10 +29,18 @@ I’m an aspiring **Data Scientist** with a passion for:
 
 ## 🛠️ Tech Stack  
 
-- **Languages:** Python, SQL  
-- **ML/DL:** Scikit-learn, TensorFlow, XGBoost, LightGBM  
-- **Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
-- **Tools:** Git, Jupyter, VS Code  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LightGBM-025E8C?style=for-the-badge&logo=lightgbm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
 
 ---
 
@@ -47,14 +55,6 @@ I’m an aspiring **Data Scientist** with a passion for:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true">
-</p>
-
----
-
-### 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onedark&no-frame=true&row=1&column=6">
 </p>
 
 ---
